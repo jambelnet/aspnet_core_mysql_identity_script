@@ -1,6 +1,6 @@
 # ASP.NET Core Identity script for MySql
 
-[MySql Script](https://gist.github.com/jambelnet/1ea70236c933d644b36895b296fb44e5)
+[Gist](https://gist.github.com/jambelnet/1ea70236c933d644b36895b296fb44e5)
 
 ### Table structure for:
 * AspNetRoles
